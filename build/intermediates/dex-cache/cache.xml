@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\eumes\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.7.1\2179cc613447c297623a4a6d2ba6692c3aaff804\gdx-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2179cc613447c297623a4a6d2ba6692c3aaff804">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\gdx-1.7.1-89bd39fd64cfbae39cbf104065256338f819b38e.jar" />
+    </item>
+    <item
+        jar="C:\Users\eumes\.gradle\caches\modules-2\files-2.1\com.github.yangweigbh\libgdx-cardboard-core\0.2\1040bd3b8330500240cc9eb28e6e470cbb70d1de\libgdx-cardboard-core-0.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1040bd3b8330500240cc9eb28e6e470cbb70d1de">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\libgdx-cardboard-core-0.2-c47396c03986f748d1b335831b018cd2e0773762.jar" />
+    </item>
+    <item
+        jar="C:\Users\eumes\Desktop\CardBoardGame\android\libs\libprotobuf-java-2.6-nano.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2ba3ce68542db5a4b672a22606e4fd4631ed5c4f">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\libprotobuf-java-2.6-nano-afd65204a6b4dd20ba80cc327d3a5ba8f334fc89.jar" />
+    </item>
+    <item
+        jar="C:\Users\eumes\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.7.1\454871d4783564f17959bf9247660e7f56ecc4ab\gdx-backend-android-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="454871d4783564f17959bf9247660e7f56ecc4ab">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.7.1-36f7735fefe8249967b4c4b0314e4e94f505abb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\eumes\Desktop\CardBoardGame\android\libs\cardboard.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="538c01b92c8e1818421d7a79c5d777cf2c8f8c53">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\cardboard-ae8d37d8335659b75b5e6a4018c2156fcfd1ff66.jar" />
+    </item>
+    <item
+        jar="C:\Users\eumes\Desktop\CardBoardGame\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a5a0c93543072804730456138197260fd31ddd59">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\core-1.0-27270fe4d41d7b19f143ba931c4fd2acdaed08d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\eumes\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.7.1\74f9953d61110e1b80a01a6bd6dcd057cdfe0a91\gdx-controllers-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74f9953d61110e1b80a01a6bd6dcd057cdfe0a91">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.7.1-b075b7999f77b8b75eb57be32e03e635a332b704.jar" />
+    </item>
+    <item
+        jar="C:\Users\eumes\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.7.1\fd23897393900f8f888222795e3229eff600fb3d\gdx-box2d-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd23897393900f8f888222795e3229eff600fb3d">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.7.1-36907ce8ee975ed4bd76ed49fbdf01c02a0c2a09.jar" />
+    </item>
+    <item
+        jar="C:\Users\eumes\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.7.1\28d5514b1b968a056e37239d1bceb1800a453f3e\gdx-controllers-android-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="28d5514b1b968a056e37239d1bceb1800a453f3e">
+        <dex dex="C:\Users\eumes\Desktop\CardBoardGame\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.7.1-1929c446f3b20f2ae791340cf61840b7d2b1577e.jar" />
+    </item>
+
+</items>

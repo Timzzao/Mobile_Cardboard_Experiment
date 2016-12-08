@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.yangweigbh</groupId>
+  <artifactId>libgdx-cardboard-core</artifactId>
+  <version>0.2</version>
+  <name>libgdx-cardboard-core</name>
+  <description>library help developing cardboard app based on libgdx</description>
+  <url>https://github.com/yangweigbh/Libgdx-CardBoard-Extension</url>
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Wei Yang</name>
+      <email>yangweigbh@hotmail.com</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/yangweigbh/Libgdx-CardBoard-Extension.git</connection>
+    <developerConnection>scm:git:https://github.com/yangweigbh</developerConnection>
+    <url>https://github.com/yangweigbh/Libgdx-CardBoard-Extension.git</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.badlogicgames.gdx</groupId>
+      <artifactId>gdx-backend-android</artifactId>
+      <version>1.7.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.badlogicgames.gdx</groupId>
+      <artifactId>gdx</artifactId>
+      <version>1.7.1</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

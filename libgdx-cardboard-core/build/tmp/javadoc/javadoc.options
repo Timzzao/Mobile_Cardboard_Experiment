@@ -1,0 +1,9 @@
+-classpath 'C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\build\\classes\\main;C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\build\\resources\\main;C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\libs\\android-4.4.jar;C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\libs\\cardboard.jar;C:\\Users\\eumes\\.gradle\\caches\\modules-2\\files-2.1\\com.badlogicgames.gdx\\gdx-backend-android\\1.7.1\\454871d4783564f17959bf9247660e7f56ecc4ab\\gdx-backend-android-1.7.1.jar;C:\\Users\\eumes\\.gradle\\caches\\modules-2\\files-2.1\\com.badlogicgames.gdx\\gdx\\1.7.1\\2179cc613447c297623a4a6d2ba6692c3aaff804\\gdx-1.7.1.jar'
+-d 'C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\build\\docs\\javadoc'
+-doctitle 'libgdx-cardboard-core 0.2 API'
+-quiet 
+-windowtitle 'libgdx-cardboard-core 0.2 API'
+'C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\src\\com\\badlogic\\gdx\\backends\\android\\CardBoardAndroidApplication.java'
+'C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\src\\com\\badlogic\\gdx\\backends\\android\\CardBoardApplicationListener.java'
+'C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\src\\com\\badlogic\\gdx\\backends\\android\\CardboardCamera.java'
+'C:\\Users\\eumes\\AndroidStudioProjects\\Libgdx-CardBoard-Extension-master\\libgdx-cardboard-core\\src\\com\\badlogic\\gdx\\backends\\android\\CardBoardGraphics.java'
